@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Grocery store billing",
+    "desc": "Automated Billing Invoice Process which provides the Functionality to calculate all Products costs and Taxes. Generating the invoice of  a customer. Built using Python, MySQL",
+    "image": "grocery store billing",
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/Thanusha-rani/grocery-store-billing-software",
+      "code": "https://github.com/Thanusha-rani/grocery-store-billing-software/blob/main/bills.py"
+    }
+  },
+ 
+ 
+  
+  {
+    "name": "Facial Expression Recognition",
+    "desc": "Finding the Current Expression of a person by using the machine learning Concepts built using Python,SQL",
+    "image": "FER1",
+    "category":"Python",
+    "links": {
+      "view": "https://github.com/Thanusha-rani/FacialExpressionRecognition-CNN",
+      "code": "https://github.com/Thanusha-rani/FacialExpressionRecognition-CNN"
+    }
+  },
+
+
+ 
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Thanusha-rani/portfolio"
+    }
+  },
+  
+  
+    
+
+]
